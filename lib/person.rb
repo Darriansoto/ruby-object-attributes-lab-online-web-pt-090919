@@ -16,4 +16,4 @@ class Person
   end
 end
 
-Person.new("")
+Beyonce = Person.new("Beyonce")
